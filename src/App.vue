@@ -1,9 +1,7 @@
 <script setup>
-import TabUI from "./components/TabUI.vue";
-import TabUiAi from "./components/TabUiAi.vue";
+import CardList from "./components/CardList.vue";
 </script>
 <template>
-  <TabUI></TabUI>
-  <TabUiAi></TabUiAi>
+  <CardList></CardList>
 </template>
 <style></style>
